@@ -1,0 +1,16 @@
+Duplicate element
+Duplicate element
+19 
+29 
+37 
+38 
+42 
+46 
+51 
+57 
+71 
+81 
+96 
+98 
+99 
+46
