@@ -1,0 +1,9 @@
+30
+50
+40
+-191
+20
+10
+Empty stck. Nothing to pop.
+Invalid input
+Enter <-1> to end the program
